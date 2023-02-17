@@ -36,7 +36,9 @@ public class FilterColumns {
      *      |4      |'Brandon'             |'Smith'                 |
      *      |5      |'Adam'                |'Jones'                 |
      */
-
+    public static void main(String [] args){
+        
+    }
     public List<User> problem1(){
         String sql = FileUtil.parseSQLFile("problem1.sql");
 
